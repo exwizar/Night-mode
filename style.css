@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(114, 114, 114);
+    transition: 0.5s all ease-in-out;
+}
+
+.btn {
+    display: block;
+    margin: 20% auto;
+    height: 35px;
+    border-color: black;
+    border-radius: 10px;
+    transition: 0.2s;
+}
+
+.black {
+    background-color: black;
+    color:white
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
